@@ -3,6 +3,8 @@ created: 2026-01-19T16:43
 updated: 2026-01-27T17:42
 title: "Memulai Mengetik"
 date: 2026-01-27
+showToc: true
+TocOpen: true
 draft: false
 tags:
   - tutorial
