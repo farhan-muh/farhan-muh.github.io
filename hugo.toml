@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Farhan's Note"
+theme = "PaperMod"
+[params.profileMode]
+    enabled = true
+    title = "Halo, saya Farhan!"
+    subtitle = "Pengajar Digital & Penulis Tutorial. Selamat belajar!"
+    # imageUrl = "link-foto-kamu.jpg" # Bisa dikosongkan dulu
+	
+[[menu.main]]
+    name = "Tutorial"
+    url = "/posts/"
+    weight = 10
