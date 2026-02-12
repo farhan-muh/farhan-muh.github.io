@@ -1,6 +1,4 @@
 ---
-created: 2026-01-19T16:43
-updated: 2026-01-27T17:42
 title: "Memulai Mengetik"
 date: 2026-01-27
 showToc: true
@@ -19,21 +17,22 @@ Bagaimana cara membuka aplikasi Microsoft Word? Caranya mudah banget kok. Kita b
 
 ### Klik Dua Kali Ikon Microsoft Word
 Coba cari di desktop layar komputer teman-teman, ikon yang berwarna biru dan ada huruf **W**-nya seperti ini dan klik dua kali
-![Gambar 1 Klik Ikon Word](/images/ngetik-klik-ikon-word.png)
+![Gambar 1 Klik Ikon Word](ngetik-klik-ikon-word.webp)
+
 *Gambar 1 Klik Ikon Word*
 
 ### Mencari di Tombol Start
 Ketik saja di kotak pencarian yang ada di samping tombol start "Word", Kemudian klik satu kali saja pada ikon Word berikut
-![Gambar 2 Mencari Word Lewat Menu Start](/images/ngetik-ketik-start.png)
+![Gambar 2 Mencari Word Lewat Menu Start](ngetik-ketik-start.webp)
 *Gambar 2 Mencari Word Lewat Menu Start*
 
 ### Membuat Dokumen Baru
 Setelah Word terbuka tampilannya akan seperti di bawah ini. Klik saja Blank document untuk membuat dokumen kosong yang baru
-![Gambar 3 Tampilan Awal Word](/images/ngetik-tampilan-awal-word.png)
+![Gambar 3 Tampilan Awal Word](ngetik-tampilan-awal-word.webp)
 *Gambar 3 Tampilan Awal Word*
 ## Memulai Mengetik
 Nah, kalau dokumen baru sudah dibuat, nanti tampilannya akan seperti di bawah ini. Teman-teman bisa lihat ada garis tegak tipis yang kelap-kelip di sebelah kiri atas. Itu namanya **Kursor**, kursor ini fungsinya itu sebagai penanda, jadi dia ngasih tahu kita, tulisan yang diketik itu akan muncul dimana.
-![Gambar 4 Dokumen Kosong Word](/images/ngetik-tampilan-awal-dokumen.png)
+![Gambar 4 Dokumen Kosong Word](ngetik-tampilan-awal-dokumen.webp)
 *Gambar 4 Dokumen Kosong Word*
 
 Sekarang cobalah ketik teks dibawah ini
@@ -46,7 +45,7 @@ Sekarang cobalah ketik teks dibawah ini
 > “Oh iya, tadi ada salah ketik tidak? Kalau ada salah ketik tekan aja tombol Backspace yang ada di pojok kanan atas keyboard. Kalau tidak ada, coba hapus satu paragraf ini ya, untuk mencoba tombol itu, tapi nanti jangan lupa diketik lagi.”
 
 Nanti hasil akhirnya akan seperti ini
-![Gambar 5 Jawaban](/images/ngetik-latihan1-jawaban-2.png)
+![Gambar 5 Jawaban](ngetik-latihan1-jawaban.webp)
 *Gambar 5 Jawaban*
 
 Bagaimana teman-teman sampai disini sudah bisa ya? Sekarang saya akan tambahin beberapa hal yang belum masuk di latihan pertama tadi:
@@ -69,28 +68,28 @@ Bagaimana teman-teman sampai disini sudah bisa ya? Sekarang saya akan tambahin b
 
 Sekarang setelah teman-teman selesai mencoba latihan pertama, jangan lupa untuk disimpan ya agar bisa dibuka atau dilihat lagi nanti. Nah, begini cara menyimpannya.
 1. **Cek Judul Dokumen**. Biasanya kalau teman-teman belum simpan suatu file di Word, judul dokumen yang ada diatas itu akan tertulis Document1 atau Document2 bisa juga Document3 dst.
-   ![Gambar 6 Dokumen Belum Disimpan](/images/ngetik-belom-save-2.png)
+   ![Gambar 6 Dokumen Belum Disimpan](ngetik-belom-save.webp)
    *Gambar 6 Dokumen Belum Disimpan*
 2. **Klik Menu File**. Nah untuk menyimpan, teman-teman bisa klik menu **File** yang ada di sebelah kiri.
-   ![Gambar 7 Klik Menu File](/images/ngetik-klik-file.png)
+   ![Gambar 7 Klik Menu File](ngetik-klik-file.webp)
    *Gambar 7 Klik Menu File*
 3. **Pilih Save**. Kemudian klik pilihan **Save**
-   ![Gambar 8 Klik Save](/images/ngetik-pilih-save-1.png)
+   ![Gambar 8 Klik Save](ngetik-pilih-save.webp)
    *Gambar 8 Klik Save*
 4. **Cari Folder (Browse)**. Lalu Klik Browse dan silahkan dicari di folder mana teman-teman mau menyimpan latihannya. Saya sarankan untuk teman-teman yang menggunakan laptop atau komputer sendiri, simpan file latihannya di dokumen saja ya agar gampang dicari. 
 	1. **Buat Folder Belajar.** Lalu disana buatlah folder **Belajar** dengan cara:
-	   ![Gambar 9 Buat Folder](/images/ngetik-simpan-browsi-1.png)
+	   ![Gambar 9 Buat Folder](ngetik-simpan-browse.webp)
 	   *Gambar 9 Buat Folder*
 		1. Klik kanan mouse.
 		2. Lalu pilih **New**, dan pilih **Folder**.
 		3. Sekarang ganti nama folder baru itu dengan nama **Belajar**.
-		   ![Gambar 10 Ganti Nama Folder](/images/ngetik-simpan-newfolder.png)
+		   ![Gambar 10 Ganti Nama Folder](ngetik-simpan-newfolder.webp)
 		   *Gambar 10 Ganti Nama Folder*
 		4. Lalu masuk ke folder belajar dengan cara klik dua kali
 		5. Kemudian buat lagi folder dengan nama **Word**. Caranya sama seperti tadi ya. Setelahnya masuk ke folder **Word** itu.
 	Nah di folder ini kita akan menyimpan latihan Word kita.
 5. **Ubah Nama File**. Lalu di sisi bawah samping **File name:** teman-teman ubah dulu nama filenya. Tolong beri nama yang lebih deskriptif seperti `latihan 1 memulai mengetik` atau boleh yang lain tapi jelas ya, agar nanti gampang kalau kalian mau buka file latihannya lagi.
-   ![Gambar 11 Ganti Nama File](/images/ngetik-simpan-word-1.png)
+   ![Gambar 11 Ganti Nama File](ngetik-simpan-word.webp)
    *Gambar 11 Ganti Nama File*
 6. Kemudian klik tombol **Save** di pojok kanan bawah.
    
@@ -103,10 +102,10 @@ Oke, berikut ini langkah-langkah untuk ekspor dokumen Word yang bisa teman-teman
 1. **Klik Menu File**. Pertama klik menu **File** yang ada di pojok kiri atas.
 2. **Pilih Save as**. Ada perbedaan antara **Save** dan **Save as** nanti akan Saya jelaskan.
 3. **Pilih Browse**. Silakan teman-teman tentukan dimana mau simpan file PDF ini. Saya sarankan di folder yang sama dengan latihan 1 tadi saja agar gampang dicari, jadi boleh aja kita simpan lagi di **Document > Belajar > Word**.
-   ![Gambar 12 Save As](/images/ngetik-ekspor-pdf1.png)
+   ![Gambar 12 Save As](ngetik-ekspor-pdf1.webp)
    *Gambar 12 Save As*
 4. **Ubah Tipe File**. Dibawah kotak nama File, ada kotak pilihan **Save as type**. Klik disitu kemudian cari dan pilih **PDF**.
-   ![Gambar 13 Ubah Tipe File](/images/ngetik-ekspor-pdf2-1.png)
+   ![Gambar 13 Ubah Tipe File](ngetik-ekspor-pdf2.webp)
    *Gambar 13 Ubah Tipe File*
 5. **Klik Save**. Sekarang kamu sudah punya dua file yaitu Word yang masih bisa kamu edit lagi, dan PDF yang siap untuk dikirim atau dicetak.
 
