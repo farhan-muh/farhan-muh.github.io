@@ -1,9 +1,10 @@
 ---
 title: "Memulai Mengetik"
 date: 2026-01-27
-showToc: true
-TocOpen: true
 draft: false
+series: ["Belajar Microsoft Word"]
+series_order: 1
+layout: "page"
 tags:
   - tutorial
   - office
@@ -21,7 +22,7 @@ Coba cari di desktop layar komputer teman-teman, ikon yang berwarna biru dan ada
     src="ngetik-klik-ikon-word.webp" 
     alt="Klik Ikon Word" 
     caption="Gambar 1: Klik Ikon Word" 
-    align="center" 
+    align="center"
 >}}
 
 ### Mencari di Tombol Start

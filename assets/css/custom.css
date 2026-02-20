@@ -1,0 +1,26 @@
+/* Perlebar area artikel */
+.article-content {
+  max-width: 1100px !important;
+}
+
+/* Atur padding kiri-kanan halaman (biar tidak terlalu sempit) */
+@media (min-width: 1024px) {
+  .lg\:px-32 {
+    padding-left: 5rem !important;
+    padding-right: 5rem !important;
+  }
+}
+
+/* Jarak antara artikel dan TOC */
+@media (min-width: 1024px) {
+  main {
+    column-gap: 2rem !important;
+  }
+}
+
+/* Perkecil lebar TOC tapi tetap aman */
+@media (min-width: 1024px) {
+  .lg\:max-w-2xs {
+    max-width: 260px !important;
+  }
+}
