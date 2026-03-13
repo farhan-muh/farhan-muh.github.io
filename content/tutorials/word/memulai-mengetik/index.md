@@ -16,6 +16,9 @@ tags:
 
 Assalamu'alaikum, teman-teman semua. Semoga harinya menyenangkan, ya! Di tutorial pertama ini, kita akan membahas hal yang paling mendasar yaitu, gimana caranya memulai mengetik di Word dengan rapi. Harapannya nih, kalau cara ngetik kita sudah bagus dari awal, kerjaan kita akan jadi lebih cepat selesai dan hasilnya pun akan lebih profesional. Yuk, kita mulai!
 
+> [!caution] **Gambarnya Kekecilan?**
+> klik aja gambarnya untuk memperbesar.
+
 ## Membuka Microsoft Word dan Membuat Dokumen Kosong
 
 Bagaimana cara membuka aplikasi Microsoft Word? Caranya mudah banget kok. Kita bisa langsung klik dua kali pada ikon Word di desktop atau mencarinya di tombol Start.
