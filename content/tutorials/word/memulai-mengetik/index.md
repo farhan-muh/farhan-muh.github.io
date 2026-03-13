@@ -5,7 +5,6 @@ draft: false
 weight: 2
 series: ["Belajar Microsoft Word"]
 series_order: 2
-layout: "page"
 summary: "Tutorial pertama membahas cara membuka Microsoft Word, membuat dokumen baru, memulai mengetik, menyimpan file, ekspor ke PDF, serta perbedaan Save dan Save As."
 tags:
   - tutorial
@@ -13,7 +12,7 @@ tags:
   - Word
 ---
 ## Pembuka
-Assalamu’alaikum, teman-teman semua. Semoga harinya menyenangkan, ya! Di tutorial pertama ini, kita akan membahas hal yang paling mendasar yaitu, gimana caranya memulai mengetik di Word dengan rapi. Harapannya nih, kalau cara ngetik kita sudah bagus dari a# wal, kerjaan kita akan jadi lebih cepat selesai dan hasilnya pun akan lebih profesional. Yuk, kita mulai!
+Assalamu’alaikum, teman-teman semua. Semoga harinya menyenangkan, ya! Di tutorial pertama ini, kita akan membahas hal yang paling mendasar yaitu, gimana caranya memulai mengetik di Word dengan rapi. Harapannya nih, kalau cara ngetik kita sudah bagus dari awal, kerjaan kita akan jadi lebih cepat selesai dan hasilnya pun akan lebih profesional. Yuk, kita mulai!
 
 ## Membuka Microsoft Word dan Membuat Dokumen Kosong
 Bagaimana cara membuka aplikasi Microsoft Word? Caranya mudah banget kok. Kita bisa langsung klik dua kali pada ikon Word di desktop atau mencarinya di tombol Start
