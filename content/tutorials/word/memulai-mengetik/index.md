@@ -2,6 +2,7 @@
 title: "Memulai Mengetik"
 date: 2026-01-27
 draft: false
+weight: 2
 series: ["Belajar Microsoft Word"]
 series_order: 2
 layout: "page"
@@ -12,7 +13,7 @@ tags:
   - Word
 ---
 ## Pembuka
-Assalamu’alaikum, teman-teman semua. Semoga harinya menyenangkan, ya! Di tutorial pertama ini, kita akan membahas hal yang paling mendasar yaitu, gimana caranya memulai mengetik di Word dengan rapi. Harapannya nih, kalau cara ngetik kita sudah bagus dari awal, kerjaan kita akan jadi lebih cepat selesai dan hasilnya pun akan lebih profesional. Yuk, kita mulai!
+Assalamu’alaikum, teman-teman semua. Semoga harinya menyenangkan, ya! Di tutorial pertama ini, kita akan membahas hal yang paling mendasar yaitu, gimana caranya memulai mengetik di Word dengan rapi. Harapannya nih, kalau cara ngetik kita sudah bagus dari a# wal, kerjaan kita akan jadi lebih cepat selesai dan hasilnya pun akan lebih profesional. Yuk, kita mulai!
 
 ## Membuka Microsoft Word dan Membuat Dokumen Kosong
 Bagaimana cara membuka aplikasi Microsoft Word? Caranya mudah banget kok. Kita bisa langsung klik dua kali pada ikon Word di desktop atau mencarinya di tombol Start
@@ -70,7 +71,7 @@ Nanti hasil akhirnya akan seperti ini
     align="center" 
 >}}
 
-Bagaimana teman-teman sampai disini sudah bisa ya? Sekarang saya akan tambahin beberapa hal yang belum masuk di latihan pertama tadi:
+Bagaimana teman-teman sampai di sini sudah bisa ya? Sekarang saya akan tambahin beberapa hal yang belum masuk di latihan pertama tadi:
 
 1. Tadi saya belum kasih tahu cara menambah spasi ya, untuk menambah spasi tekan tombol space bar yang paling panjang itu
 2. Shift dan Caps Lock bisa membuat huruf menjadi besar, namun mereka berbeda.
@@ -89,7 +90,7 @@ Bagaimana teman-teman sampai disini sudah bisa ya? Sekarang saya akan tambahin b
 ## Menyimpan File
 
 Sekarang setelah teman-teman selesai mencoba latihan pertama, jangan lupa untuk disimpan ya agar bisa dibuka atau dilihat lagi nanti. Nah, begini cara menyimpannya.
-1. **Cek Judul Dokumen**. Biasanya kalau teman-teman belum simpan suatu file di Word, judul dokumen yang ada diatas itu akan tertulis Document1 atau Document2 bisa juga Document3 dst.
+1. **Cek Judul Dokumen**. Biasanya kalau teman-teman belum simpan suatu file di Word, judul dokumen yang ada di atas itu akan tertulis Document1 atau Document2 bisa juga Document3 dst.
    {{< figure 
     src="ngetik-belom-save.webp" 
     alt="Dokumen Belum Disimpan" 
@@ -111,7 +112,7 @@ Sekarang setelah teman-teman selesai mencoba latihan pertama, jangan lupa untuk 
     align="center" 
 	>}}
 3. **Cari Folder (Browse)**. Lalu Klik Browse dan silahkan dicari di folder mana teman-teman mau menyimpan latihannya. Saya sarankan untuk teman-teman yang menggunakan laptop atau komputer sendiri, simpan file latihannya di dokumen saja ya agar gampang dicari. 
-	1. **Buat Folder Belajar.** Lalu disana buatlah folder **Belajar** dengan cara:
+	1. **Buat Folder Belajar.** Lalu di sana buatlah folder **Belajar** dengan cara:
 	   {{< figure 
 		src="ngetik-simpan-browse.webp" 
 		alt="Buat Folder" 

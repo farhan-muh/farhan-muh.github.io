@@ -1,32 +1,362 @@
-/* --- TAMPILAN DESKTOP (Layar Besar) --- */
+/* =============================================================
+   custom.css — Farhan's Note
+   assets/css/custom.css
+   ============================================================= */
+
+
+/* ── 1. LAYOUT DESKTOP ── */
 @media (min-width: 1024px) {
-  /* Perlebar area artikel hanya di desktop */
   .article-content {
     max-width: 1100px !important;
   }
-
-  /* Atur padding kiri-kanan halaman */
   .lg\:px-32 {
     padding-left: 5rem !important;
     padding-right: 5rem !important;
   }
-
-  /* Jarak antara artikel dan TOC */
   main {
     column-gap: 2rem !important;
   }
-
-  /* Perkecil lebar TOC */
   .lg\:max-w-2xs {
     max-width: 260px !important;
   }
 }
 
-/* --- TAMPILAN MOBILE (Android/iPhone) --- */
+/* ── 2. LAYOUT MOBILE ── */
 @media (max-width: 1023px) {
   .article-content {
     max-width: 100% !important;
     padding-left: 1rem !important;
     padding-right: 1rem !important;
   }
+}
+
+
+/* =========================================================
+   3. WARNA BACKGROUND — LIGHT MODE (Misty Sage)
+   ========================================================= */
+
+body {
+  background-color: #e8f0ea;
+}
+
+/* Navbar Blowfish — wrapper utamanya adalah #the-top */
+#the-top {
+  background-color: #dde8df !important;
+  border-bottom: 1px solid #cad8cc !important;
+}
+
+footer {
+  background-color: #dde8df !important;
+  border-top: 1px solid #cad8cc !important;
+}
+
+/* Article header (judul + meta) — transparan, menyatu dengan body */
+#single_header {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+
+/* =========================================================
+   4. WARNA BACKGROUND — DARK MODE (Deep Forest)
+   ========================================================= */
+
+.dark body {
+  background-color: #0f1f17 !important;
+}
+
+.dark #the-top {
+  background-color: #162d20 !important;
+  border-bottom: 1px solid #1e3d28 !important;
+}
+
+.dark footer {
+  background-color: #162d20 !important;
+  border-top: 1px solid #1e3d28 !important;
+}
+
+.dark #single_header {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Series box dark mode */
+.dark .series,
+.dark [class*="series"] {
+  background-color: #162d20 !important;
+  border-color: #1e3d28 !important;
+}
+
+
+/* =========================================================
+   5. LINK SERIES — FIX WARNA
+   ========================================================= */
+
+.not-prose a,
+a.not-prose {
+  color: rgb(var(--color-primary-600)) !important;
+}
+.not-prose a:hover,
+a.not-prose:hover {
+  color: rgb(var(--color-primary-500)) !important;
+  text-decoration: underline;
+}
+
+.dark .not-prose a,
+.dark a.not-prose {
+  color: rgb(var(--color-primary-400)) !important;
+}
+.dark .not-prose a:hover,
+.dark a.not-prose:hover {
+  color: rgb(var(--color-primary-300)) !important;
+}
+
+
+/* =========================================================
+   6. FONT ARTIKEL
+   ========================================================= */
+
+.prose {
+  font-size: 1rem !important;
+  line-height: 1.8 !important;
+}
+.prose p,
+.prose li {
+  font-size: 1rem !important;
+  line-height: 1.8 !important;
+}
+
+
+/* =========================================================
+   7. SILABUS CARD — LIGHT MODE
+   ========================================================= */
+
+.sc-card {
+  background: white;
+  border-radius: 14px;
+  border: 1.5px solid #e5e7eb;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+  position: relative;
+  overflow: hidden;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.sc-card:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+.sc-card::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+  border-radius: 4px 0 0 4px;
+}
+.sc-selesai::before { background: #16a34a; }
+.sc-proses::before  { background: #d97706; }
+.sc-rencana::before { background: #d1d5db; }
+
+.sc-card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.85rem;
+}
+.sc-card-left { display: flex; flex-direction: column; gap: 0.4rem; }
+
+.sc-num {
+  font-family: ui-monospace, monospace;
+  font-size: 0.72rem;
+  color: #6b7280;
+  background: #f3f4f6;
+  padding: 0.15rem 0.5rem;
+  border-radius: 6px;
+  width: fit-content;
+}
+
+.sc-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #111827;
+}
+.sc-title a { color: inherit; text-decoration: none; }
+.sc-title a:hover { color: #16a34a; }
+
+.sc-label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.sc-label-selesai { background: #dcfce7; color: #16a34a; }
+.sc-label-proses  { background: #fef3c7; color: #d97706; }
+.sc-label-rencana { background: #f3f4f6; color: #6b7280; }
+
+.sc-subs {
+  list-style: none;
+  padding: 0; margin: 0;
+  display: flex; flex-direction: column; gap: 0.35rem;
+}
+.sc-subs li {
+  font-size: 0.83rem;
+  color: #6b7280;
+  display: flex; align-items: center; gap: 0.5rem;
+  padding: 0; margin: 0;
+}
+.sc-subs li::before {
+  content: '→';
+  font-size: 0.72rem;
+  color: #d1d5db;
+  flex-shrink: 0;
+}
+.sc-selesai .sc-subs li::before { color: #86efac; }
+.sc-proses  .sc-subs li::before { color: #fcd34d; }
+
+.sc-subs li a {
+  color: #6b7280;
+  text-decoration: none;
+  border-bottom: 1px dashed #d1d5db;
+  transition: color 0.15s, border-color 0.15s;
+}
+.sc-subs li a:hover {
+  color: #16a34a;
+  border-bottom-color: #86efac;
+}
+
+.sc-section {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #9ca3af;
+  font-weight: 600;
+  margin: 1.75rem 0 1rem;
+  display: flex; align-items: center; gap: 0.75rem;
+}
+.sc-section::after {
+  content: ''; flex: 1;
+  height: 1px; background: #e5e7eb;
+}
+
+
+/* =========================================================
+   8. SILABUS CARD — DARK MODE
+   ========================================================= */
+
+.dark .sc-card {
+  background-color: #162d20 !important;
+  border-color: #1e3d28 !important;
+}
+.dark .sc-num {
+  background: #1e3d28 !important;
+  color: #86efac !important;
+}
+.dark .sc-title,
+.dark .sc-title a { color: #d1fae5 !important; }
+.dark .sc-label-selesai { background: #14532d !important; color: #86efac !important; }
+.dark .sc-label-proses  { background: #451a03 !important; color: #fcd34d !important; }
+.dark .sc-label-rencana { background: #1e3d28 !important; color: #6b7280 !important; }
+.dark .sc-subs li { color: #9fbfa8 !important; }
+.dark .sc-subs li a {
+  color: #86efac !important;
+  border-bottom-color: #1e3d28 !important;
+}
+.dark .sc-subs li a:hover { color: #4ade80 !important; }
+.dark .sc-section { color: #4b7a5a !important; }
+.dark .sc-section::after { background: #1e3d28 !important; }
+
+
+/* =========================================================
+   9. SERIES BOX — FIX BACKGROUND & LINK WARNA
+   ========================================================= */
+
+/* Series box Blowfish pakai class ini */
+.series-box,
+details.series-box,
+[class*="series"] details,
+details[open] {
+  background-color: #d4e8d8 !important;
+  border: 1px solid #b8d4bd !important;
+  border-radius: 10px !important;
+}
+
+.dark .series-box,
+.dark details.series-box,
+.dark [class*="series"] details,
+.dark details[open] {
+  background-color: #1a3825 !important;
+  border-color: #1e3d28 !important;
+}
+
+/* Link di dalam series — override not-prose */
+details a,
+.series a,
+[class*="series"] a {
+  color: #16a34a !important;
+  font-weight: 500;
+}
+details a:hover,
+.series a:hover {
+  color: #15803d !important;
+  text-decoration: underline;
+}
+
+.dark details a,
+.dark .series a,
+.dark [class*="series"] a {
+  color: #4ade80 !important;
+}
+.dark details a:hover,
+.dark .series a:hover {
+  color: #86efac !important;
+}
+
+/* Bagian aktif (artikel ini) — warna berbeda, tidak bisa diklik */
+details li:first-child,
+.series li:first-child {
+  color: #6b7280 !important;
+  font-style: italic;
+}
+
+
+/* =========================================================
+   10. FIX ARTICLE FOOTER (pagination) & SITE FOOTER
+   ========================================================= */
+
+/* Article footer (pagination ← →) — transparan, menyatu dengan body */
+article footer,
+footer.pt-8,
+footer.max-w-prose,
+article > footer {
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
+/* Site footer — pakai ID spesifik */
+footer#site-footer {
+  background-color: #dde8df !important;
+  border-top: 1px solid #cad8cc !important;
+}
+
+.dark footer#site-footer {
+  background-color: #162d20 !important;
+  border-top: 1px solid #1e3d28 !important;
+}
+
+/* Hapus background dari rule footer umum sebelumnya */
+footer {
+  background-color: transparent !important;
+  border-top: none !important;
+}
+
+/* Fix: skip-to-content button di navbar */
+#the-top > a:first-child {
+  display: none !important;
 }

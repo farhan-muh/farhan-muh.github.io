@@ -3,46 +3,84 @@ title: "Silabus Materi Microsoft Word"
 date: 2026-03-05
 draft: false
 showTableOfContents: false
+weight: 1
 series: ["Belajar Microsoft Word"]
 series_order: 1
 layout: "page"
-summary: "Silabus materi Microsoft Word."
+summary: "Rencana lengkap perjalanan belajar Microsoft Word — dari memulai mengetik hingga mail merge."
 tags:
   - tutorial
   - office
   - Word
 ---
 
-Di bawah ini akan ditampilkan daftar artikel tutorial Microsoft Word yang telah dibuat atau yang sedang direncanakan untuk dibuat. Insya Allah akan terus kami perbarui secara berkala. Artikel di bawah ini diurutkan berdasarkan rekomendasi dari kami untuk urutan belajar Microsoft Word, namun kamu tetap bebas kok mau milih belajar yang mana duluan.
+Di bawah ini ditampilkan daftar materi Microsoft Word yang sudah kami buat atau yang sedang direncanakan. Insya Allah akan terus kami perbarui secara berkala. Artikel diurutkan berdasarkan rekomendasi urutan belajar, namun kamu tetap bebas memilih mana yang ingin dipelajari duluan.
 
-### 1. [Memulai Mengetik]({{< relref "tutorials/word/memulai-mengetik" >}})
-   1. [Membuka Microsoft Word dan Membuat Dokumen Kosong]({{< relref "tutorials/word/memulai-mengetik/#membuka-microsoft-word-dan-membuat-dokumen-kosong" >}})
-   2. [Memulai Mengetik]({{< relref "tutorials/word/memulai-mengetik/#memulai-mengetik" >}})
-   3. [Menyimpan File]({{< relref "tutorials/word/memulai-mengetik/#menyimpan-file" >}})
-   4. [Ekspor ke PDF]({{< relref "tutorials/word/memulai-mengetik/#ekspor-ke-pdf" >}})
-   5. [Perbedaan Save dan Save As]({{< relref "tutorials/word/memulai-mengetik/#perbedaan-save-dan-save-as" >}})
+<div class="sc-section">Tersedia</div>
 
-### 2. Merapikan Tulisan dan Membuat Daftar *(Sedang Ditulis)*
-   1. Mengubah Jenis dan Ukuran Font
-   2. Memberi Penekanan Teks dengan Bold, Italic, dan Underline
-   3. Merapikan Daftar dengan Bullets and Numbering
+{{< silabus-card
+  num="01"
+  title="Memulai Mengetik"
+  url="/tutorials/word/memulai-mengetik/"
+  status="selesai"
+>}}
+Membuka Microsoft Word dan Membuat Dokumen Kosong|#membuka-microsoft-word-dan-membuat-dokumen-kosong
+Memulai Mengetik|#memulai-mengetik
+Menyimpan File|#menyimpan-file
+Ekspor ke PDF|#ekspor-ke-pdf
+Perbedaan Save dan Save As|#perbedaan-save-dan-save-as
+{{< /silabus-card >}}
 
-### 3. Layout & Tata Letak Halaman *(Rencana)*
-   1. Mengatur Margin & Ukuran Kertas
-   2. Mengatur Spasi Baris & Perataan
-   3. Menggunakan Page Break
+<div class="sc-section">Sedang Ditulis</div>
 
-### 4. Ilustrasi: Gambar & Shape *(Rencana)*
-   1. Menambahkan Gambar ke Dokumen
-   2. Menambahkan Shape ke Dokumen
-   3. Mengatur Posisi Gambar dan Shape
+{{< silabus-card
+  num="02"
+  title="Merapikan Tulisan dan Membuat Daftar"
+  status="proses"
+>}}
+Mengubah Jenis dan Ukuran Font
+Memberi Penekanan Teks dengan Bold, Italic, dan Underline
+Merapikan Daftar dengan Bullets and Numbering
+{{< /silabus-card >}}
 
-### 5. Menyajikan Data: Tabel & Grafik *(Rencana)*
-   1. Membuat Tabel di Microsoft Word
-   2. Mengatur Format Tabel
-   3. Membuat Grafik di Microsoft Word
+<div class="sc-section">Direncanakan</div>
 
-### 6. Otomatisasi: Mail Merge *(Rencana)*
-   1. Apa itu Mail Merge?
-   2. Membuat Template Surat dengan Mail Merge
-   3. Mengimpor Data untuk Mail Merge
+{{< silabus-card
+  num="03"
+  title="Layout & Tata Letak Halaman"
+  status="rencana"
+>}}
+Mengatur Margin & Ukuran Kertas
+Mengatur Spasi Baris & Perataan
+Menggunakan Page Break
+{{< /silabus-card >}}
+
+{{< silabus-card
+  num="04"
+  title="Ilustrasi: Gambar & Shape"
+  status="rencana"
+>}}
+Menambahkan Gambar ke Dokumen
+Menambahkan Shape ke Dokumen
+Mengatur Posisi Gambar dan Shape
+{{< /silabus-card >}}
+
+{{< silabus-card
+  num="05"
+  title="Menyajikan Data: Tabel & Grafik"
+  status="rencana"
+>}}
+Membuat Tabel di Microsoft Word
+Mengatur Format Tabel
+Membuat Grafik di Microsoft Word
+{{< /silabus-card >}}
+
+{{< silabus-card
+  num="06"
+  title="Otomatisasi: Mail Merge"
+  status="rencana"
+>}}
+Apa itu Mail Merge?
+Membuat Template Surat dengan Mail Merge
+Mengimpor Data untuk Mail Merge
+{{< /silabus-card >}}

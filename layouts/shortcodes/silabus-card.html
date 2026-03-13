@@ -1,0 +1,70 @@
+{{/*
+  Shortcode: silabus-card
+  Params:
+    - num     : nomor urut, misal "01"
+    - title   : judul materi
+    - url     : link ke artikel (kosongkan jika belum ada)
+    - status  : "selesai" | "proses" | "rencana"
+  Inner content: list subtopik, format tiap baris:
+    Judul Subtopik|#anchor-link
+    Judul Subtopik (tanpa link, cukup teks saja)
+*/}}
+
+{{ $num    := .Get "num" }}
+{{ $title  := .Get "title" }}
+{{ $url    := .Get "url" | default "" }}
+{{ $status := .Get "status" | default "rencana" }}
+
+{{ $labelText := "" }}
+{{ $labelClass := "" }}
+{{ if eq $status "selesai" }}
+  {{ $labelText = "✓ Selesai" }}
+  {{ $labelClass = "sc-label-selesai" }}
+{{ else if eq $status "proses" }}
+  {{ $labelText = "✍ Sedang Ditulis" }}
+  {{ $labelClass = "sc-label-proses" }}
+{{ else }}
+  {{ $labelText = "Rencana" }}
+  {{ $labelClass = "sc-label-rencana" }}
+{{ end }}
+
+<div class="sc-card sc-{{ $status }}">
+  <div class="sc-card-header">
+    <div class="sc-card-left">
+      <span class="sc-num">{{ $num }}</span>
+      <div class="sc-title">
+        {{ if $url }}
+          <a href="{{ $url }}">{{ $title }}</a>
+        {{ else }}
+          {{ $title }}
+        {{ end }}
+      </div>
+    </div>
+    <span class="sc-label {{ $labelClass }}">{{ $labelText }}</span>
+  </div>
+
+  {{ $inner := trim .Inner "\n\r " }}
+  {{ if $inner }}
+  <ul class="sc-subs">
+    {{ range split $inner "\n" }}
+      {{ $line := trim . " \r" }}
+      {{ if $line }}
+        {{ $parts := split $line "|" }}
+        {{ if ge (len $parts) 2 }}
+          {{ $subTitle := index $parts 0 }}
+          {{ $anchor   := index $parts 1 }}
+          <li>
+            {{ if $anchor }}
+              <a href="{{ $url }}{{ $anchor }}">{{ $subTitle }}</a>
+            {{ else }}
+              {{ $subTitle }}
+            {{ end }}
+          </li>
+        {{ else }}
+          <li>{{ $line }}</li>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>
