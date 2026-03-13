@@ -362,12 +362,12 @@ footer {
 }
 
 /* Batasi ukuran gambar di artikel */
-.prose img {
+/* .prose img {
   max-width: 600px !important;
-  width: auto !important;  /* ubah dari 100% ke auto */
+  width: auto !important; 
   display: block;
   margin: 0 auto;
-}
+} */
 
 /* Gambar tertentu yang perlu dikecilkan */
 /* img[src*="ngetik-klik-ikon-word"] {
@@ -380,4 +380,11 @@ footer {
 #TableOfContents ul ul ul,
 nav ul ul ul {
   display: none !important;
+}
+
+.prose img {
+  max-width: min(600px, 100%) !important;
+  width: auto !important;
+  display: block;
+  margin: 0 auto;
 }
