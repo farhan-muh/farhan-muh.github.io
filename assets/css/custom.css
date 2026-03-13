@@ -360,3 +360,24 @@ footer {
 #the-top > a:first-child {
   display: none !important;
 }
+
+/* Batasi ukuran gambar di artikel */
+.prose img {
+  max-width: 600px !important;
+  width: auto !important;  /* ubah dari 100% ke auto */
+  display: block;
+  margin: 0 auto;
+}
+
+/* Gambar tertentu yang perlu dikecilkan */
+/* img[src*="ngetik-klik-ikon-word"] {
+  max-width: 300px !important;
+  display: block;
+  margin: 0 auto;
+} */
+
+/* Sembunyikan H4 dari TOC */
+#TableOfContents ul ul ul,
+nav ul ul ul {
+  display: none !important;
+}
