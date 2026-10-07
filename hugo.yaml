@@ -1,0 +1,5 @@
+baseURL: https://farhan-muh.github.io/
+title: Farhan's Note
+defaultContentLanguage: id
+languageCode: id
+theme: hextra
