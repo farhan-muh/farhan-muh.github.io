@@ -1,210 +1,297 @@
 ---
-title: "Memulai Mengetik"
-date: 2026-01-27
+title: "Memulai Mengetik di Microsoft Word"
+author: ["Muhamad Farhan"]
 draft: false
-weight: 2
-summary: "Tutorial pertama membahas cara membuka Microsoft Word, membuat dokumen baru, memulai mengetik, menyimpan file, ekspor ke PDF, serta perbedaan Save dan Save As."
-tags:
-  - tutorial
-  - office
-  - Word
 ---
 
-## Pembuka
+## Pembuka {#pembuka}
 
-Assalamu'alaikum, teman-teman semua. Semoga harinya menyenangkan, ya! Di tutorial pertama ini, kita akan membahas hal yang paling mendasar yaitu, gimana caranya memulai mengetik di Word dengan rapi. Harapannya nih, kalau cara ngetik kita sudah bagus dari awal, kerjaan kita akan jadi lebih cepat selesai dan hasilnya pun akan lebih profesional. Yuk, kita mulai!
+Pada artikel ini kita akan mempelajari Microsoft Word dari dasar. Mulai dari
+membuka aplikasi Microsoft Word, lalu pengenalan beberapa tombol di keyboard
+yang cukup penting, dan mencoba latihan mengetik sederhana. Mungkin beberapa hal
+di dalam artikel ini sudah cukup familiar bagi kamu, jika benar begitu silakan
+melompati bagian tersebut. Namun kalau tidak memberatkan boleh saja dibaca
+bagian ini, untuk sekadar menyegarkan ingatan kembali.
 
-> [!caution] **Gambarnya Kekecilan?**
-> klik aja gambarnya untuk memperbesar.
 
-## Membuka Microsoft Word dan Membuat Dokumen Kosong
+## Membuka Word dan Membuat Dokumen Baru {#membuka-word-dan-membuat-dokumen-baru}
 
-Bagaimana cara membuka aplikasi Microsoft Word? Caranya mudah banget kok. Kita bisa langsung klik dua kali pada ikon Word di desktop atau mencarinya di tombol Start.
+Bukalah aplikasi Microsoft Word dari menu **Start** atau klik dua kali pada
+shortcut di desktop. Setelah terbuka tampilan awalnya seperti ini.
 
-### Klik Dua Kali Ikon Microsoft Word
+{{< figure src="./gambar-awal-word.webp" caption="<span class=\"figure-number\">Figure 1: </span>Tampilan awal Microsoft Word yang baru dibuka" >}}
 
-Coba cari di desktop layar komputer teman-teman, ikon yang berwarna biru dan ada huruf **W**-nya seperti ini dan klik dua kali.
+Klik **Blank Document** untuk membuat dokumen baru. Maka akan muncul halaman
+kosong seperti ini.
 
-<figure style="text-align: center;">
-  <img src="ngetik-klik-ikon-word.webp" alt="Ikon Microsoft Word di Desktop" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 1: Klik Ikon Word</figcaption>
-</figure>
+{{< figure src="./gambar-dokumen-kosong.webp" caption="<span class=\"figure-number\">Figure 2: </span>Tampilan awal dokumen kosong Microsoft Word" >}}
 
-### Mencari di Tombol Start
 
-Ketik saja di kotak pencarian yang ada di samping tombol start "Word", kemudian klik satu kali saja pada ikon Word berikut.
+## Pengenalan Beberapa Tombol Keyboard {#pengenalan-beberapa-tombol-keyboard}
 
-<figure style="text-align: center;">
-  <img src="ngetik-ketik-start.webp" alt="Mencari Word Lewat Menu Start" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 2: Mencari Word Lewat Menu Start</figcaption>
-</figure>
+Sebelum lanjut mengetik dokumen pertama kita, mari mengenal beberapa tombol di
+keyboard yang cukup sering digunakan. Berikut ini adalah layout keyboard QWERTY
+yang umum digunakan di Indonesia.
 
-### Membuat Dokumen Baru
+{{< figure src="gambar-keyboard-qwerty.svg" caption="<span class=\"figure-number\">Figure 3: </span>Layout keyboard QWERTY. Gambar oleh [Mysid](https://commons.wikimedia.org/wiki/File:Laptop_Keyboard_Diagram.svg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), via Wikimedia Commons." >}}
 
-Setelah Word terbuka tampilannya akan seperti di bawah ini. Klik saja **Blank document** untuk membuat dokumen kosong yang baru.
 
-<figure style="text-align: center;">
-  <img src="ngetik-tampilan-awal-word.webp" alt="Tampilan Awal Microsoft Word" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 3: Tampilan Awal Word</figcaption>
-</figure>
+### Kursor {#kursor}
 
-## Memulai Mengetik
+**Kursor** adalah garis vertikal tipis berkedip di area dokumen. Dia
+menunjukkan posisi huruf berikutnya yang akan diketik. Biasanya huruf akan
+ditambahkan pada sebelah kiri kursor, dan kursornya akan terus bergeser ke kanan
+selama mengetik. Tapi itu untuk huruf Latin yang ditulisnya dari kiri ke kanan.
+Untuk huruf yang ditulis dari kanan ke kiri seperti huruf Arab, huruf tersebut
+akan ditambahkan sebelah kanan kursor, dan kursornya akan bergerak ke kiri.
 
-Nah, kalau dokumen baru sudah dibuat, nanti tampilannya akan seperti di bawah ini. Teman-teman bisa lihat ada garis tegak tipis yang kelap-kelip di sebelah kiri atas. Itu namanya **Kursor**, kursor ini fungsinya itu sebagai penanda, jadi dia ngasih tahu kita, tulisan yang diketik itu akan muncul dimana.
+Untuk menggeser posisi kursor, bisa gunakan tombol panah yang ada di kanan bawah
+keyboard. Nanti bisa digeser kanan, kiri, atas atau bawah. Atau bisa juga
+langsung klik kiri mouse pada posisi yang diinginkan.
 
-<figure style="text-align: center;">
-  <img src="ngetik-tampilan-awal-dokumen.webp" alt="Tampilan Dokumen Kosong Word" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 4: Dokumen Kosong Word</figcaption>
-</figure>
+Istilah kursor kadang tertukar dengan pointer mouse. Pointer mouse adalah ikon
+panah yang mengikuti gerakan mouse. Kadang wujudnya bukan panah, bisa berubah
+tergantung situasi.
 
-Sekarang cobalah ketik teks di bawah ini.
 
-> "Halo semuanya! Nama saya adalah [Tulis Nama Kamu Disini Ya!]. Saat ini, saya sedang duduk di depan komputer untuk belajar mengetik. Latihan pertama ini aku akan belajar tombol dasar yang sering digunakan saat aku ngetik nih. Sekarang aku ingin buat paragraf baru dengan cara tekan tombol Enter di keyboard."
+### Spacebar dan Tab {#spacebar-dan-tab}
+
+**Spacebar** adalah tombol paling panjang yang ada di tengah bawah keyboard.
+Fungsinya untuk menambahkan spasi yang memisahkan kata.
+
+Tombol **Tab** ada di kiri agak ke atas pada keyboard. Fungsinya untuk memindahkan
+kursor ke _tab stop_. Biasanya digunakan saat ingin menambahkan jarak indentasi
+pada paragraf atau untuk menyejajarkan titik dua `:` pada daftar isian. Nanti
+ada contohnya di latihan.
+
+
+### Enter {#enter}
+
+Tombol **Enter** ada di sebelah kanan keyboard. Fungsinya untuk membuat paragraf
+baru di bawah tulisan yang tadi kita ketik. Kursor akan pindah ke bawah dan kita
+mulai mengetik lagi di sana.
+
+
+### Backspace dan Delete {#backspace-dan-delete}
+
+Tombol **Backspace** dan **Delete** terletak di kanan atas keyboard. Keduanya
+berfungsi untuk menghapus huruf, namun ada perbedaannya. **Backspace** menghapus
+huruf yang ada di sebelah kiri kursor. **Delete** menghapus huruf yang di sebelah
+kanan kursor.
+
+
+### Shift dan Caps Lock {#shift-dan-caps-lock}
+
+Tombol Shift dan Caps Lock umumnya digunakan untuk mengetik huruf kapital,
+karena tanpa dua tombol tersebut, huruf yang kita ketik biasanya
+adalah huruf kecil. Meskipun fungsi awalnya terlihat mirip, ada beberapa
+perbedaan penggunaan dan fungsi tambahan pada kedua tombol itu.
+
+Tombol **Caps Lock** ada di sebelah kiri. Jika tombol ini ditekan sekali kemudian
+dilepas, maka semua huruf yang berikutnya kita ketik akan menjadi kapital. Untuk
+kembali mengetik huruf kecil, tekan kembali tombol itu.
+
+Tombol **Shift** ada dua, yaitu di kiri dan di kanan, fungsi keduanya sama saja.
+Untuk mengetik huruf kapital dengan tombol **Shift**, tekan tombol **Shift**
+**bersamaan** dengan huruf yang mau diketik.
+
+Biasanya saat kita mau mengetik nama seseorang, hanya huruf di awal kata yang
+memakai huruf kapital. Contohnya kita mau menulis nama `Raihan`, tekan **Shift**
+dan huruf `R` bersamaan. Lalu sisa huruf berikutnya `aihan`, diketik biasa tanpa
+menekan **Shift**.
+
+Tombol **Shift** selain untuk mengetik huruf kapital, bisa digunakan untuk
+mengetik simbol. Coba lihat di keyboard, ada beberapa tombol yang punya dua
+baris karakter. Untuk mengetik karakter yang ada di baris atas, tekan **Shift**
+bersamaan dengan tombol tersebut.
+
+Misalnya kita mau mengetik tanda seru `!`, tombolnya ada di atas angka **1**. Tekan
+**Shift** dan tombol angka **1** yang di atasnya ada tanda seru tersebut.
+
+> **Tips**
 >
-> "Nah sekarang kita sudah sampai di paragraf kedua. Mari kita kenalan dengan tombol Shift. Tombol Shift ini jika kita tekan bersamaan dengan tombol huruf yang lain, nanti huruf nya jadi kapital loh, seperti tadi saat kita menulis nama disini, [Ayo tulis lagi nama kamu disini, tapi pastikan satu huruf depan tiap kalimatnya adalah huruf kapital ya]. Selain itu tombol Shift juga digunakan untuk mengetik simbol tambahan seperti tanda seru ! dan petik dua seperti tadi ". [Sampai disini tolong diperhatikan tanda baca serta penempatan huruf kapitalnya ya].
+> Kedua tombol **Shift** bisa dipakai bergantian. Jika huruf yang mau diketik ada
+> di sebelah kiri keyboard misalnya "A", tekanlah **Shift** yang di kanan. Begitu
+> pula sebaliknya.
+
+
+### Ctrl dan Alt {#ctrl-dan-alt}
+
+Tombol **Ctrl** dan **Alt** ada di bawah keyboard di kiri dan kanan. Mereka biasanya
+ditekan bersama tombol lain untuk shortcut. Kita juga akan belajar shortcut yang
+umum digunakan, nanti di saat kita memerlukannya.
+
+
+## Latihan Mengetik {#latihan-mengetik}
+
+Setelah puas membaca fungsi tombol-tombol di keyboard, sekarang sudah
+saatnya kita coba latihan mengetiknya. Latihannya ada tiga tahap, cobalah
+dikerjakan berurutan.
+
+
+### Mengetik Satu Paragraf {#mengetik-satu-paragraf}
+
+Pada latihan ini kita akan membuat satu paragraf yang terdiri dari beberapa
+baris kalimat. Kita juga akan mulai mengenal konsep _word wrap_.
+
+**Instruksi!**: Cobalah ketik teks di bawah ini tanpa menekan tombol **Enter**.
+Biarkan teks yang diketik turun sendiri membuat baris baru di bawahnya.
+
+> Saat ini saya sedang belajar mengetik di Microsoft Word. Saya mulai dengan
+> meletakkan kedua tangan saya di posisi dasar. Telunjuk kiri di "F" dan telunjuk
+> kanan di "J", lalu biarkan jari yang lain mengikuti di sebelahnya. Biasanya di
+> tombol "F" dan "J" ada sedikit tonjolan untuk menandakan posisi mereka.
+
+**Hal-hal yang perlu diperhatikan**:
+
+1.  Gunakan tombol **Shift** untuk mengetik huruf kapital. Boleh pakai **Caps
+    Lock**, tapi perhatikan kapan tombol itu ditekan lagi.
+2.  Ada tanda kutip dua `"`, dan itu perlu tombol **Shift**.
+3.  Jika ada salah ketik, gunakan **Backspace** untuk menghapus huruf di sebelah
+    kiri kursor, atau **Delete** bila mau menghapus huruf di sebelah kanan kursor.
+4.  Jika salah ketiknya baru kamu ketahui setelah selesai mengetik, kamu bisa
+    arahkan kursor kembali ke tempat yang salah dan hapus. Untuk memindahkan
+    posisi kursor, gunakan tombol panah atau kamu bisa langsung klik kiri pada
+    huruf yang salah.
+
+Nanti hasil akhirnya akan jadi seperti ini.
+
+{{< figure src="./gambar-latihan-satu-paragraf.webp" caption="<span class=\"figure-number\">Figure 4: </span>Hasil latihan mengetik satu paragraf" >}}
+
+Pada baris pertama setelah saya mengetik kata `kedua`, kata `tangan` akan
+otomatis pindah ke bawah. Inilah contoh dari _word wrap_, Word akan secara
+otomatis memindahkan kata ke baris di bawahnya bila kata itu sudah tidak muat
+lagi ke samping.
+
+Mungkin pada latihan yang kamu kerjakan, letak kata-katanya tidak sama persis
+dengan hasil yang saya tampilkan, tapi itu tidak masalah. Perbedaan itu bisa
+terjadi karena font, ukuran huruf, atau margin di Word kamu punya pengaturan
+yang berbeda. Kamu tidak perlu mengubah semua pengaturan itu dahulu, karena pada
+latihan ini saya hanya ingin menunjukkan konsep _word wrap_ saja. Tiga
+pengaturan itu akan kita bahas pada artikel-artikel berikutnya.
+
+
+### Mengetik Beberapa Baris {#mengetik-beberapa-baris}
+
+Pada latihan ini kita akan membuat potongan data pada formulir yang terdiri dari
+beberapa baris. Kita bisa melanjutkan ini di bawah latihan pertama, jadi tekan
+**Enter** dua kali untuk pindah ke baris baru dan memberi jarak satu baris kosong.
+
+**Instruksi**: Ketiklah teks di bawah ini. Dan kali ini tekan **Enter** bila teks
+pada baris itu telah selesai agar bisa lanjut ke paragraf baru di bawahnya.
+
+> Biodata Diri
 >
-> "Sekarang lanjut di paragraf ketiga, kita kenalan dengan tombol Caps Lock. Biasanya kita pakai tombol ini untuk membuat huruf menjadi besar atau kita sedang marah-marah, coba ditekan. NAH SUDAH YAH? JANGAN LUPA TEKAN SEKALI LAGI KALAU HURUFNYA MAU KECIL KEMBALI. Sampai di sini cukup seru kan?"
+> Nama                     : Muhammad Fajar Alfian
 >
-> "Oh iya, tadi ada salah ketik tidak? Kalau ada salah ketik tekan aja tombol Backspace yang ada di pojok kanan atas keyboard. Kalau tidak ada, coba hapus satu paragraf ini ya, untuk mencoba tombol itu, tapi nanti jangan lupa diketik lagi."
+> Tempat, tanggal lahir    : Serang, 23 Oktober 1995
+>
+> Pekerjaan                : Karyawan Swasta
+>
+> Alamat                   : Jalan Anggrek Hitam, No. 26 Tangerang
+>
+> Pendidikan Terakhir      : S1 Akuntansi
 
-Nanti hasil akhirnya akan seperti ini.
+**Hal-hal yang perlu diperhatikan**:
 
-<figure style="text-align: center;">
-  <img src="ngetik-latihan1-jawaban.webp" alt="Hasil Latihan Mengetik" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 5: Jawaban</figcaption>
-</figure>
+1.  Jangan lupa untuk menekan **Enter** setiap ingin membuat paragraf baru ke
+    bawah.
+2.  Ratakan posisi titik dua `:` setiap baris menggunakan tombol **Tab**. Dan
+    mungkin kamu perlu menekannya beberapa kali agar posisinya sejajar dengan
+    baris yang lain.
 
-Bagaimana teman-teman sampai di sini sudah bisa ya? Sekarang saya akan tambahin beberapa hal yang belum masuk di latihan pertama tadi:
+Hasilnya akan jadi seperti ini:
 
-1. Tadi saya belum kasih tahu cara menambah spasi ya, untuk menambah spasi tekan tombol **Space Bar** yang paling panjang itu.
-2. **Shift** dan **Caps Lock** bisa membuat huruf menjadi besar, namun mereka berbeda.
-   - Kalau **Caps Lock** cukup ditekan sekali lalu lepas untuk membuat huruf kapital, dan tekan sekali lagi untuk mematikannya agar huruf kembali normal.
-   - **Shift** perlu ditekan bersama-sama agar hurufnya jadi kapital, jadi kalau dilepas tombol Shift-nya hurufnya akan kembali normal. Selain itu Shift juga digunakan untuk mengetik beberapa tanda baca atau simbol. Jika dalam satu tombol ada dua karakter, untuk mengetik karakter yang di atas kita perlu pakai Shift. Misalnya tanda seru (`!`) berarti tekan `Shift` + `1`, kutip dua (`"`) berarti tekan `Shift` + `'`, atau tanda `@` berarti tekan `Shift` + `2`.
-3. Ada dua tombol untuk menghapus yaitu `Backspace` dan `Delete`.
-   - `Backspace` akan menghapus yang ada di sebelah kiri kursor.
-   - `Delete` menghapus yang ada di sebelah kanan kursor.
-4. Jangan lupa tambahkan spasi setelah tanda baca agar tulisan kita rapi dan sesuai kaidah Bahasa Indonesia.
-5. Jika ingin memperbaiki tulisan yang ada di tengah paragraf, klik dulu pakai mouse di bagian yang mau diperbaiki agar kursornya pindah dulu, setelah itu baru diperbaiki.
-6. Untuk membuat paragraf baru, cukup tekan Enter sekali saja. Kalau lebih dari sekali nanti jarak paragrafnya akan semakin jauh. Dan tidak perlu tekan `Alt` + `Enter` — cukup tekan Enter saja untuk membuat paragraf atau baris baru.
-7. Kalau teman-teman melihat ada garis berwarna merah di bawah tulisan, itu fitur Word yang menandakan ejaan salah. Boleh diabaikan kalau sudah yakin tulisannya benar, karena saat di-print atau diekspor ke PDF garis merah itu tidak akan kelihatan.
+{{< figure src="./gambar-latihan-ketik-beberapa-baris.webp" caption="<span class=\"figure-number\">Figure 5: </span>Hasil latihan mengetik beberapa baris teks" >}}
 
-## Menyimpan File
+Di sini kita telah mengetik enam baris teks. Apakah teks yang kamu ketik sudah
+sama seperti hasil di atas? Seharusnya tidak banyak perbedaan besar, karena teks
+perbarisnya tidak banyak. Bila ada sedikit perbedaan tidak masalah, karena yang
+ingin dicapai pada latihan ini adalah mengetik teks beberapa baris dan meratakan
+titik dua dengan **Tab**.
 
-Setelah selesai latihan pertama, jangan lupa disimpan ya agar bisa dibuka lagi nanti. Berikut langkah-langkahnya.
+**Tab** bukan satu-satunya cara untuk meratakan posisi titik dua dalam dokumen,
+masih ada cara yang lain, namun **Tab** adalah cara yang paling sering saya
+temukan pada pengaturan dokumen sederhana. Bila ada kesempatan kita juga bisa
+bahas cara lain itu nanti.
 
-#### Langkah 1: Cek Judul Dokumen
+> **Tentang Paragraf dan Baris**
+>
+> Selama ini kita menganggap bahwa paragraf adalah kumpulan teks panjang yang
+> terdiri dari beberapa baris, saya pun dulu begitu. Tapi pada aplikasi pengolah
+> kata, batas paragraf itu ditentukan oleh di mana kita menekan **Enter**. Jadi satu
+> kata pun, bila diakhirnya kita menekan **Enter**, sudah dianggap satu paragraf
+> sendiri.
 
-Biasanya kalau belum disimpan, judul dokumen di bagian atas akan tertulis **Document1**, **Document2**, dan seterusnya.
 
-<figure style="text-align: center;">
-  <img src="ngetik-belom-save.webp" alt="Dokumen Belum Disimpan" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 6: Dokumen Belum Disimpan</figcaption>
-</figure>
+### Mengetik Beberapa Paragraf {#mengetik-beberapa-paragraf}
 
-#### Langkah 2: Klik Menu File
+Pada latihan ini kita akan membuat beberapa paragraf. Kita akan melihat _word
+wrap_ pada lebih dari satu paragraf, serta kita akan menggunakan **Tab** untuk
+indentasi pada baris pertama paragraf. Kita lanjutkan lagi latihan ini di bawah
+latihan sebelumnya, jadi tekan **Enter** dua kali untuk pindah ke baris baru dan
+memberi jarak satu baris kosong.
 
-Klik menu **File** yang ada di pojok kiri atas.
+**Instruksi**: Ketiklah teks di bawah ini. Tekan **Tab** pada awal paragraf untuk
+membuat indentasi baris pertama. Tekan **Enter** hanya saat membuat paragraf baru.
 
-<figure style="text-align: center;">
-  <img src="ngetik-klik-file.webp" alt="Klik Menu File" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 7: Klik Menu File</figcaption>
-</figure>
+> Ada banyak aplikasi perkantoran pengolah kata, kita akan bahas singkat tiga
+> di antaranya: Microsoft Word, LibreOffice Writer, dan Google Docs. Ketiganya
+> punya lingkungan pemakaian tersendiri.
+>
+> Jika kita menggunakan Windows pasti sudah familiar dengan Microsoft Word. Ini
+> adalah salah satu aplikasi pengolah kata terbaik yang jadi standar pemakaian
+> saat ini.
+>
+> Di Linux kita akan lebih familiar dengan LibreOffice, karena cukup sering sudah
+> langsung terinstal di sana. Tapi di Windows dan Mac juga tersedia, kalau mau
+> instal bisa unduh gratis di halaman webnya.
+>
+> Apakah saat kamu daftar email Gmail, cuma pakai layanan emailnya saja?
+> Sebenarnya saat daftar email sudah termasuk dengan layanan Google Docs untuk
+> mengolah kata. Karena berbasis web jadi cocok untuk kolaborasi.
 
-#### Langkah 3: Pilih Save
+Hasilnya nanti seperti ini:
 
-Kemudian klik pilihan **Save**.
+{{< figure src="./gambar-latihan-ketik-beberapa-paragraf.webp" caption="<span class=\"figure-number\">Figure 6: </span>Hasil latihan mengetik beberapa paragraf" >}}
 
-<figure style="text-align: center;">
-  <img src="ngetik-pilih-save.webp" alt="Klik Save" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 8: Klik Save</figcaption>
-</figure>
+Bagaimana hasil yang kamu ketik? Kalau letak kata-katanya tidak sama persis,
+tidak masalah, karena yang ingin ditunjukkan adalah _word wrap_ dari beberapa
+paragraf seperti di latihan pertama.
 
-#### Langkah 4: Cari Folder (Browse)
+Kita juga sudah menggunakan **Tab** untuk membuat indentasi baris pertama yang
+masuk ke kanan. **Tab** ini hanyalah cara cepat bila dokumennya pendek. Untuk
+dokumen panjang ada pengaturan untuk indentasi banyak paragraf sekaligus, jadi
+kita tidak perlu menekan **Tab** setiap buat paragraf baru, karena selain
+merepotkan, rawan juga kelupaan. Kita akan pelajari itu di beberapa materi
+berikutnya.
 
-Klik **Browse** dan cari folder tempat menyimpan latihan. Saya sarankan simpan di folder **Dokumen** agar gampang dicari.
 
-Lalu buatlah folder baru dengan nama **Belajar** dengan cara:
+## Kesalahan Umum {#kesalahan-umum}
 
-<figure style="text-align: center;">
-  <img src="ngetik-simpan-browse.webp" alt="Buat Folder Belajar" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 9: Buat Folder</figcaption>
-</figure>
+Ada beberapa kesalahan umum yang pernah saya temukan dalam mengetik dokumen.
 
-1. Klik kanan mouse.
-2. Pilih **New**, lalu pilih **Folder**.
-3. Ganti nama folder baru itu dengan nama **Belajar**.
 
-<figure style="text-align: center;">
-  <img src="ngetik-simpan-newfolder.webp" alt="Ganti Nama Folder Belajar" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 10: Ganti Nama Folder</figcaption>
-</figure>
+### Menekan Enter pada akhir baris {#menekan-enter-pada-akhir-baris}
 
-4. Masuk ke folder **Belajar** dengan klik dua kali.
-5. Buat lagi folder dengan nama **Word** dengan cara yang sama, lalu masuk ke folder **Word** itu.
+Kita tidak perlu menekan **Enter** saat ingin pindah ke baris bawah bila teks yang
+kita ketik masih ada di dalam paragraf yang sama. Biarkan ketikan itu mengalir
+apa adanya karena ada fitur _word wrap_ yang otomatis memindahkan teks itu ke
+bawah. Kalau kita menekan **Enter**, baris berikutnya akan jadi paragraf terpisah.
 
-#### Langkah 5: Ubah Nama File
 
-Di bagian bawah samping **File name**, ubah nama filenya menjadi sesuatu yang deskriptif seperti `latihan 1 memulai mengetik` agar gampang dicari nanti.
+### Menggunakan spasi untuk mengatur jarak titik dua {#menggunakan-spasi-untuk-mengatur-jarak-titik-dua}
 
-<figure style="text-align: center;">
-  <img src="ngetik-simpan-word.webp" alt="Ganti Nama File" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 11: Ganti Nama File</figcaption>
-</figure>
+Kalau menggunakan spasi, posisi titik dua yang berbeda baris bisa tidak sejajar.
+Gunakan **Tab** untuk mengatur jarak titik dua pada beberapa baris sejajar.
 
-#### Langkah 6: Klik Save
 
-Klik tombol **Save** di pojok kanan bawah. Selesai!
+## Penutup {#penutup}
 
-## Ekspor ke PDF
+Pada artikel pertama ini, kita sudah bisa mengetik, mengenal beberapa tombol
+penting di keyboard, memperbaiki kesalahan dalam pengetikan, serta membuat
+paragraf. Tapi jangan ditutup dulu Word-nya, karena kita perlu menyimpan latihan
+ini, agar bisa dibuka kembali nanti.
 
-Setelah latihan disimpan dan isinya sudah rapi, sekarang ayo kita coba ubah dokumen Word ke PDF. Untuk apa kita jadikan PDF? PDF adalah singkatan dari *Portable Document Format*. Kelebihannya adalah jika teman-teman membuka file PDF dari komputer atau HP lain, tampilannya tidak berantakan dan masih sama persis seperti yang dibuat. Karena itu, format ini sering dipakai untuk tugas, laporan, atau dokumen resmi.
-
-Dari pengalaman saya, bahkan kalau membuka di versi Microsoft Office yang berbeda pun format dokumen bisa berantakan. Jadi saya sering ubah dulu ke PDF agar aman saat mau print.
-
-#### Langkah 1: Klik Menu File
-
-Klik menu **File** yang ada di pojok kiri atas.
-
-#### Langkah 2: Pilih Save As
-
-Pilih **Save As**. Ada perbedaan antara **Save** dan **Save As** — nanti akan saya jelaskan.
-
-#### Langkah 3: Pilih Browse
-
-Tentukan di mana mau simpan file PDF. Saya sarankan di folder yang sama dengan latihan 1, yaitu **Dokumen > Belajar > Word**.
-
-<figure style="text-align: center;">
-  <img src="ngetik-ekspor-pdf1.webp" alt="Pilih Save As" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 12: Save As</figcaption>
-</figure>
-
-#### Langkah 4: Ubah Tipe File
-
-Di bawah kotak nama file, ada kotak pilihan **Save as type**. Klik di situ kemudian cari dan pilih **PDF**.
-
-<figure style="text-align: center;">
-  <img src="ngetik-ekspor-pdf2.webp" alt="Ubah Tipe File ke PDF" style="width: auto; display: block; margin: 0 auto;">
-  <figcaption>Gambar 13: Ubah Tipe File</figcaption>
-</figure>
-
-#### Langkah 5: Klik Save
-
-Klik **Save**. Sekarang kamu sudah punya dua file — Word yang masih bisa diedit, dan PDF yang siap dikirim atau dicetak.
-
-## Perbedaan Save dan Save As
-
-Di bagian sebelumnya kita telah menggunakan **Save** dan **Save As**, tapi sebenarnya apa perbedaan di antara keduanya?
-
-- **Save (Simpan)**: Menyimpan perubahan ke file yang sama. File, nama, dan folder tetap sama — hanya isinya yang diperbarui dengan versi terbaru.
-
-- **Save As (Simpan Sebagai)**: Digunakan bila ingin menyimpan sebagai file baru atau mengubah formatnya. Dengan **Save As** kita bisa:
-  - Menyimpan file dengan nama berbeda sebagai cadangan.
-  - Mengubah isi file tanpa mengubah file asli — misalnya punya `latihan1` dan `latihan1 revisi` secara terpisah.
-  - Menyimpan file di folder yang berbeda, misalnya langsung ke Flashdisk.
-  - Mengubah format file, seperti dari Word ke PDF.
-
-## Penutup
-
-Bagaimana teman-teman latihannya? Sejauh ini teman-teman sudah bisa membuka Word, membuat dokumen baru, mengetik, menyimpan dokumen, serta mengekspornya menjadi PDF — semua itu sudah menjadi pencapaian besar dari langkah awal teman-teman ini.
-
-Tidak apa-apa kalau teman-teman mengerjakan ini dengan pelan-pelan atau masih perlu dibiasakan lagi, tapi yang lebih penting teman-teman sudah tahu dan paham apa yang kalian lakukan, jadi tidak asal klik. Latihan pertama sampai di sini dulu ya, nanti kita akan lanjut latihan kedua mengubah font.
+Pada artikel berikutnya kita akan belajar cara menyimpan dokumen yang sudah
+dibuat.
