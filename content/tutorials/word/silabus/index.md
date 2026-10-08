@@ -4,8 +4,6 @@ date: 2026-03-05
 draft: false
 showTableOfContents: false
 weight: 1
-series: ["Belajar Microsoft Word"]
-series_order: 1
 layout: "page"
 summary: "Rencana lengkap perjalanan belajar Microsoft Word — dari memulai mengetik hingga mail merge."
 tags:

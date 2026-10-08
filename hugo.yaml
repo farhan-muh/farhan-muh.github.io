@@ -1,5 +1,26 @@
 baseURL: https://farhan-muh.github.io/
 title: Farhan's Note
 defaultContentLanguage: id
-languageCode: id
+locale: id
 theme: hextra
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+menu:
+  main:
+    - name: Tutorials
+      pageRef: /tutorials
+      weight: 1
+    - name: About Me
+      pageRef: /about
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
+      url: https://github.com/farhan-muh
+      params:
+        icon: github

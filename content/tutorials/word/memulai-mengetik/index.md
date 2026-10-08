@@ -3,8 +3,6 @@ title: "Memulai Mengetik"
 date: 2026-01-27
 draft: false
 weight: 2
-series: ["Belajar Microsoft Word"]
-series_order: 2
 summary: "Tutorial pertama membahas cara membuka Microsoft Word, membuat dokumen baru, memulai mengetik, menyimpan file, ekspor ke PDF, serta perbedaan Save dan Save As."
 tags:
   - tutorial
