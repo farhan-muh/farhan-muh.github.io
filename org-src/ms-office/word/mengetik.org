@@ -1,4 +1,9 @@
 #+title: Memulai Mengetik di Microsoft Word
+#+hugo_base_dir: ../../../
+#+hugo_section: tutorials/word
+#+hugo_bundle: memulai-mengetik
+#+export_file_name: index
+#+hugo_front_matter_format: yaml
 
 * Pembuka
 Pada artikel ini kita akan mempelajari Microsoft Word dari dasar. Mulai dari
@@ -28,8 +33,8 @@ Sebelum lanjut mengetik dokumen pertama kita, mari mengenal beberapa tombol di
 keyboard yang cukup sering digunakan. Berikut ini adalah layout keyboard QWERTY
 yang umum digunakan di Indonesia.
 
-#+CAPTION: Layout keyboard QWERTY
-[[./gambar-keyboard-qwerty.webp]]
+#+CAPTION: Layout keyboard QWERTY. Gambar oleh [[https://commons.wikimedia.org/wiki/File:Laptop_Keyboard_Diagram.svg][Mysid]], [[https://creativecommons.org/licenses/by-sa/3.0/deed.en][CC BY-SA 3.0]], via Wikimedia Commons.
+[[./gambar-keyboard-qwerty.svg]]
 
 ** Kursor
 
@@ -173,10 +178,15 @@ pada baris itu telah selesai agar bisa lanjut ke paragraf baru di bawahnya.
 
 #+begin_quote
 Biodata Diri
+
 Nama                     : Muhammad Fajar Alfian
+
 Tempat, tanggal lahir    : Serang, 23 Oktober 1995
+
 Pekerjaan                : Karyawan Swasta
+
 Alamat                   : Jalan Anggrek Hitam, No. 26 Tangerang
+
 Pendidikan Terakhir      : S1 Akuntansi
 #+end_quote
 
