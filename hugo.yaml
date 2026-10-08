@@ -24,3 +24,6 @@ menu:
       url: https://github.com/farhan-muh
       params:
         icon: github
+params:
+  imageZoom:
+    enable: true
