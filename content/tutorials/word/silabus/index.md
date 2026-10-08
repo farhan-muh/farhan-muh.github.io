@@ -1,10 +1,8 @@
 ---
 title: "Silabus Materi Microsoft Word"
 date: 2026-03-05
-draft: false
-showTableOfContents: false
+draft: true
 weight: 1
-layout: "page"
 summary: "Rencana lengkap perjalanan belajar Microsoft Word — dari memulai mengetik hingga mail merge."
 tags:
   - tutorial
