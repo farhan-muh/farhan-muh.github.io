@@ -1,12 +1,17 @@
 baseURL: https://farhan-muh.github.io/
 title: Farhan's Note
 defaultContentLanguage: id
+languages:
+  id:
+    label: Indonesia
+    weight: 1
 locale: id
 theme: hextra
 markup:
   goldmark:
     renderer:
       unsafe: true
+copyright: "© 2026 Muhamad Farhan · CC BY-NC-SA 4.0"
 menu:
   main:
     - name: Tutorials
@@ -25,5 +30,32 @@ menu:
       params:
         icon: github
 params:
+  description: "Tutorial Microsoft Office lengkap untuk pemula - Word, Excel, dan PowerPoint."
+  author:
+    name: "Muhamad Farhan"
+
+  page:
+    width: wide
+
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    width: wide
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+    width: wide
+
+  theme:
+    default: light
+    displayToggle: true
+
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
+
   imageZoom:
     enable: true
