@@ -19,12 +19,12 @@ bagian ini, untuk sekadar menyegarkan ingatan kembali.
 Bukalah aplikasi Microsoft Word dari menu **Start** atau klik dua kali pada
 shortcut di desktop. Setelah terbuka tampilan awalnya seperti ini.
 
-{{< figure src="./gambar-awal-word.webp" caption="<span class=\"figure-number\">Figure 1: </span>Tampilan awal Microsoft Word yang baru dibuka" >}}
+{{< figure src="gambar-awal-word.webp" caption="<span class=\"figure-number\">Figure 1: </span>Tampilan awal Microsoft Word yang baru dibuka" >}}
 
 Klik **Blank Document** untuk membuat dokumen baru. Maka akan muncul halaman
 kosong seperti ini.
 
-{{< figure src="./gambar-dokumen-kosong.webp" caption="<span class=\"figure-number\">Figure 2: </span>Tampilan awal dokumen kosong Microsoft Word" >}}
+{{< figure src="gambar-dokumen-kosong.webp" caption="<span class=\"figure-number\">Figure 2: </span>Tampilan awal dokumen kosong Microsoft Word" >}}
 
 
 ## Pengenalan Beberapa Tombol Keyboard {#pengenalan-beberapa-tombol-keyboard}
@@ -156,7 +156,7 @@ Biarkan teks yang diketik turun sendiri membuat baris baru di bawahnya.
 
 Nanti hasil akhirnya akan jadi seperti ini.
 
-{{< figure src="./gambar-latihan-satu-paragraf.webp" caption="<span class=\"figure-number\">Figure 4: </span>Hasil latihan mengetik satu paragraf" >}}
+{{< figure src="gambar-latihan-satu-paragraf.webp" caption="<span class=\"figure-number\">Figure 4: </span>Hasil latihan mengetik satu paragraf" >}}
 
 Pada baris pertama setelah saya mengetik kata `kedua`, kata `tangan` akan
 otomatis pindah ke bawah. Inilah contoh dari _word wrap_, Word akan secara
@@ -202,7 +202,7 @@ pada baris itu telah selesai agar bisa lanjut ke paragraf baru di bawahnya.
 
 Hasilnya akan jadi seperti ini:
 
-{{< figure src="./gambar-latihan-ketik-beberapa-baris.webp" caption="<span class=\"figure-number\">Figure 5: </span>Hasil latihan mengetik beberapa baris teks" >}}
+{{< figure src="gambar-latihan-ketik-beberapa-baris.webp" caption="<span class=\"figure-number\">Figure 5: </span>Hasil latihan mengetik beberapa baris teks" >}}
 
 Di sini kita telah mengetik enam baris teks. Apakah teks yang kamu ketik sudah
 sama seperti hasil di atas? Seharusnya tidak banyak perbedaan besar, karena teks
@@ -253,7 +253,7 @@ membuat indentasi baris pertama. Tekan **Enter** hanya saat membuat paragraf bar
 
 Hasilnya nanti seperti ini:
 
-{{< figure src="./gambar-latihan-ketik-beberapa-paragraf.webp" caption="<span class=\"figure-number\">Figure 6: </span>Hasil latihan mengetik beberapa paragraf" >}}
+{{< figure src="gambar-latihan-ketik-beberapa-paragraf.webp" caption="<span class=\"figure-number\">Figure 6: </span>Hasil latihan mengetik beberapa paragraf" >}}
 
 Bagaimana hasil yang kamu ketik? Kalau letak kata-katanya tidak sama persis,
 tidak masalah, karena yang ingin ditunjukkan adalah _word wrap_ dari beberapa
