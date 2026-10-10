@@ -14,9 +14,17 @@ markup:
 copyright: "© 2026 Muhamad Farhan · CC BY-NC-SA 4.0"
 menu:
   main:
-    - name: Tutorials
+    - identifier: tutorial
+      name: Tutorials
+      weight: 1
+    - name: Portal Utama
       pageRef: /tutorials
       weight: 1
+      parent: tutorial
+    - name: Word
+      parent: tutorial
+      pageRef: /word
+      weight: 2
     - name: About Me
       pageRef: /about
       weight: 2
