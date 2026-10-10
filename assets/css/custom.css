@@ -1,3 +1,13 @@
+/*============================
+warna tema hextra
+=============================*/
+:root {
+  --primary-hue: 142deg !important;
+  --primary-saturation: 60% !important;
+  --primary-lightness: 40% !important;
+}
+
+
 /* =========================================================
    7. SILABUS CARD — LIGHT MODE
    ========================================================= */
