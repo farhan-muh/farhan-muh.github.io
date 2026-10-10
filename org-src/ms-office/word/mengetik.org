@@ -1,9 +1,10 @@
 #+title: Memulai Mengetik di Microsoft Word
 #+hugo_base_dir: ../../../
-#+hugo_section: tutorials/word
+#+hugo_section: word
 #+hugo_bundle: memulai-mengetik
 #+export_file_name: index
 #+hugo_front_matter_format: yaml
+#+hugo_weight: 1
 
 * Pembuka
 Pada artikel ini kita akan mempelajari Microsoft Word dari dasar. Mulai dari

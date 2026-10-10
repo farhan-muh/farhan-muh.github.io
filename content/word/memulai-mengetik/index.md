@@ -2,6 +2,7 @@
 title: "Memulai Mengetik di Microsoft Word"
 author: ["Muhamad Farhan"]
 draft: false
+weight: 1
 ---
 
 ## Pembuka {#pembuka}
