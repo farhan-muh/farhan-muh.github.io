@@ -10,10 +10,27 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+ name = "Tutorials"
+ identifier = "tutorials"
+ weight = 10
+
+[[main]]
+ name = "Tentang Saya"
+ pageRef = "about"
+ weight = 20
+
+[[main]]
+ name = "Portal Utama"
+ parent = "tutorials"
+ pageRef = "tutorials"
+ weight = 1
+
+[[main]]
+ name = "Word"
+ parent = "tutorials"
+ pageRef = "tutorials/word"
+ weight = 2
 
 #[[main]]
 #  name = "Parent"

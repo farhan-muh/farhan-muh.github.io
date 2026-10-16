@@ -4,7 +4,8 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://farhan-muh.github.io/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "id"
+timeZone = "Asia/Jakarta"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

@@ -1,27 +1,27 @@
 disabled = false
-locale = "en"
-label = "English"
+locale = "id"
+label = "Indonesia"
 weight = 1
-title = "Blowfish"
+title = "Farhan's Note"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ID"
+  isoCode = "id"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© 2026 Muhamad Farhan. Karya ini berlisensi [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.id)."
 
-# [params.author]
-#   name = "Your name here"
+[params.author]
+  name = "Muhamad Farhan"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+  headline = "Seorang manusia biasa."
+  bio = "Seorang pencari ilmu, yang tertarik dengan berbagai hal."
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -36,7 +36,7 @@ title = "Blowfish"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/farhan-muh" },
 #     { github_gist = "https://gist.github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
@@ -79,4 +79,4 @@ title = "Blowfish"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+  ]
