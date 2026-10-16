@@ -12,6 +12,3 @@ seperti Microsoft Word, Excel, dan PowerPoint. Namun, Insya Allah, kami akan
 terus menambahkan materi tutorial lainnya di masa depan.
 
 ---
-{{< cards >}}
-  {{< card link="/word/" title="Microsoft Word" icon="document-text" subtitle="Belajar Microsoft Word dari dasar - mulai dari mengetik" >}}
-{{< /cards >}}

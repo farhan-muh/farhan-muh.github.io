@@ -6,7 +6,7 @@ languages:
     label: Indonesia
     weight: 1
 locale: id
-theme: hextra
+# theme: hextra
 markup:
   goldmark:
     renderer:
