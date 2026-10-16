@@ -43,7 +43,7 @@ params:
     name: "Muhamad Farhan"
 
   page:
-    width: wide
+    width: normal
 
   navbar:
     displayTitle: true
