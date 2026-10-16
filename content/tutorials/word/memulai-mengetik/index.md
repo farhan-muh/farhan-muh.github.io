@@ -1,8 +1,11 @@
 ---
 title: "Memulai Mengetik di Microsoft Word"
 author: ["Muhamad Farhan"]
+date: 2026-10-01
+series: ["Word Dasar"]
 draft: false
 weight: 1
+series_order: 1
 ---
 
 ## Pembuka {#pembuka}
