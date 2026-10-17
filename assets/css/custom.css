@@ -1,5 +1,11 @@
+.article-content {
+  max-width: 600px !important;
+}
 
-.max-w-prose { max-width: 700px !important; }
+.article-content img {
+  max-width: 100% !important;
+  height: auto !important;
+}
 /* =========================================================
    7. SILABUS CARD — LIGHT MODE
    ========================================================= */
