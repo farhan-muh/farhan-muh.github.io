@@ -2,8 +2,6 @@
 title: "Microsoft Word"
 date: 2026-02-18
 weight: 1
-cascade:
-    type: docs
 ---
 
 Di bawah ini ditampilkan daftar materi Microsoft Word yang sudah kami buat.
