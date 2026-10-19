@@ -1,5 +1,5 @@
 #+title: Menyimpan Dokumen di Microsoft Word
-#+date: 2026-10-01
+#+date: 2026-10-19
 #+hugo_base_dir: ../../../../
 #+hugo_section: tutorials/word
 #+hugo_bundle: menyimpan-file
@@ -31,7 +31,7 @@ dokumen yang otomatis diberikan oleh Word. Nama dokumen tersebut bisa kita ubah
 saat menyimpan dokumennya.
 
 #+caption: Tampilan dokumen yang belum disimpan
-[[./gambar-belum-simpan.webp]]
+[[./gambar-belum-disimpan.webp]]
 
 Sekarang untuk menyimpan dokumen, ikuti langkah berikut:
 
@@ -235,8 +235,36 @@ tersimpan. Dokumen *latihan1* hanya akan sampai paragraf /Kita telah belajar
 cara.../. Sementara dokumen *latihan2* akan tersimpan sampai paragraf /Kita akan
 melihat perbedaan.../.
 
-* Perbedaan Save dan Save as
+* Kesalahan Umum
 
-* Mengekspor Dokumen ke format PDF
+** Menyimpan dokumen melalui jendela konfirmasi
+Saya pernah melihat beberapa orang menyimpan dokumen menggunakan jendela
+konfirmasi yang muncul saat ingin menutup aplikasi. Saya tidak bilang ini cara
+yang salah karena cara ini memang berhasil. Tapi menurut saya ini kebiasaan yang
+kurang baik.
+
+Menyimpan sebaiknya dilakukan sambil kita bekerja, bukan hanya saat sudah
+selesai. Jadi saat kita sudah mendapat hasil yang cukup oke, langsung saja
+simpan, tekan *Ctrl+S*.
+
+Dengan begitu, pekerjaan kita yang sudah setengah jalan atau hampir selesai akan
+tersimpan dengan aman di komputer. Sehingga saat komputer bermasalah, kita tidak
+akan kehilangan pekerjaan tersebut.
+
+Memang sudah ada fitur auto save dari Word. Tapi kadang itu tidak bisa terlalu
+diandalkan. Jadi tidak ada salahnya menekan tombol *Ctrl+S* untuk menyimpan. Ini
+hanya satu kebiasaan kecil yang dapat memberi kita ketenangan.
+
+Pada jendela konfirmasi ada tiga tombol. Saya khawatir nanti salah klik dengan
+tombol *Don't Save*, yang artinya jangan simpan pekerjaan kita barusan. Saya
+pernah sekali menemukan kejadian ini. Teman saya karena terburu-buru, menekan
+tombol itu. Hasilnya semua pekerjaan yang baru dia lakukan hilang. wkwkwkwkw.
 
 * Penutup
+Pada artikel sebelumnya saya meminta untuk jangan menutup dulu Word-nya, karena
+dokumen yang diketik belum tersimpan. Tapi di artikel ini kita sudah belajar
+cara menyimpan dokumen, sehingga kita bisa tutup Word dengan aman, kemudian
+membuka lagi dokumen yang baru saja diketik tadi.
+
+Selain itu kita juga sudah belajar menyimpan perubahan di dokumen yang sama
+dengan *Save*, dan menggunakan *Save as* untuk menyimpan di dokumen baru.
