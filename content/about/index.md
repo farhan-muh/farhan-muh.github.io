@@ -2,7 +2,7 @@
 title: "Tentang Saya"
 date: 2026-02-18
 draft: false
-toc: false
+showTableOfContents: false
 ---
 
 ## Halo, Saya Farhan!
