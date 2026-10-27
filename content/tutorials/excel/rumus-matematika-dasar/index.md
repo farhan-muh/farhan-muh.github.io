@@ -4,7 +4,6 @@ author: ["Muhamad Farhan"]
 date: 2026-10-27
 series: ["Rumus Excel"]
 draft: false
-weight: 1
 series_order: 1
 ---
 

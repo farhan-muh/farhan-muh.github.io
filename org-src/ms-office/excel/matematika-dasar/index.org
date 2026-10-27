@@ -4,7 +4,7 @@
 #+hugo_section: tutorials/excel
 #+hugo_bundle: rumus-matematika-dasar
 #+export_file_name: index
-#+hugo_weight: 1
+# #+hugo_weight: 1
 #+hugo_series: "Rumus Excel"
 #+hugo_custom_front_matter: :series_order 1
 

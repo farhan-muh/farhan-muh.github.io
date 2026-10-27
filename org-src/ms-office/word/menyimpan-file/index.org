@@ -4,7 +4,7 @@
 #+hugo_section: tutorials/word
 #+hugo_bundle: menyimpan-file
 #+export_file_name: index
-#+hugo_weight: 2
+# #+hugo_weight: 2
 #+hugo_series: "Word Dasar"
 #+hugo_custom_front_matter: :series_order 2
 

@@ -4,7 +4,6 @@ author: ["Muhamad Farhan"]
 date: 2026-10-19
 series: ["Word Dasar"]
 draft: false
-weight: 2
 series_order: 2
 ---
 
