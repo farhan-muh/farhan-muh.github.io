@@ -32,6 +32,12 @@
  pageRef = "tutorials/word"
  weight = 2
 
+[[main]]
+ name = "Excel"
+ parent = "tutorials"
+ pageRef = "tutorials/excel"
+ weight = 3
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
