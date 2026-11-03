@@ -1,5 +1,5 @@
 #+title: Menghitung Banyak Data di Excel Menggunakan Fungsi COUNT, COUNTA, dan COUNTBLANK
-#+date: 2026-10-29
+#+date: 2026-11-03
 #+hugo_base_dir: ../../../../
 #+hugo_section: tutorials/excel
 #+hugo_bundle: count-counta-countblank
