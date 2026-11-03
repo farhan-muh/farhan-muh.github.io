@@ -1,7 +1,7 @@
 ---
 title: "Menghitung Banyak Data di Excel Menggunakan Fungsi COUNT, COUNTA, dan COUNTBLANK"
 author: ["Muhamad Farhan"]
-date: 2026-10-29
+date: 2026-11-03
 series: ["Rumus Excel"]
 draft: false
 series_order: 3
