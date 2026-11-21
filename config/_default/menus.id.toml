@@ -13,6 +13,7 @@
 [[main]]
  name = "Tutorials"
  identifier = "tutorials"
+ pageRef = "tutorials"
  weight = 10
 
 [[main]]

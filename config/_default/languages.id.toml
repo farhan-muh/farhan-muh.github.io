@@ -11,7 +11,7 @@ title = "Farhan's Note"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Panduan Microsoft Office untuk pemula: Word, Excel, dan PowerPoint, ditulis langkah demi langkah oleh Muhamad Farhan."
   copyright = "© 2026 Muhamad Farhan. Karya ini berlisensi [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.id)."
 
 [params.author]
