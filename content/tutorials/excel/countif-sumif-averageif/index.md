@@ -1,5 +1,6 @@
 ---
 title: "Melakukan Perhitungan Bersyarat di Excel Menggunakan Fungsi COUNTIF, SUMIF, dan AVERAGEIF"
+description: "Perhitungan bersyarat di Excel dengan COUNTIF, SUMIF, dan AVERAGEIF."
 author: ["Muhamad Farhan"]
 date: 2026-11-20
 series: ["Rumus Excel"]

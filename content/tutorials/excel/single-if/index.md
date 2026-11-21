@@ -1,5 +1,6 @@
 ---
 title: "Menggunakan Fungsi IF Tunggal untuk Uji Logika di Excel"
+description: "Fungsi IF tunggal di Excel untuk uji logika, misalnya menentukan siswa lulus atau tidak lulus."
 author: ["Muhamad Farhan"]
 date: 2026-11-12
 series: ["Rumus Excel"]

@@ -1,5 +1,6 @@
 #+title: Menggunakan Rumus Matematika Dasar di Microsoft Excel
 #+date: 2026-10-27
+#+description: Penjumlahan, pengurangan, perkalian, dan pembagian di Excel memakai rumus matematika dasar.
 #+hugo_base_dir: ../../../../
 #+hugo_section: tutorials/excel
 #+hugo_bundle: rumus-matematika-dasar

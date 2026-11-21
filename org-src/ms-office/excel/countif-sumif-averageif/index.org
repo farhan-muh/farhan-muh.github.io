@@ -1,5 +1,6 @@
 #+title: Melakukan Perhitungan Bersyarat di Excel Menggunakan Fungsi COUNTIF, SUMIF, dan AVERAGEIF
 #+date: 2026-11-20
+#+description: Perhitungan bersyarat di Excel dengan COUNTIF, SUMIF, dan AVERAGEIF.
 #+hugo_base_dir: ../../../../
 #+hugo_section: tutorials/excel
 #+hugo_bundle: countif-sumif-averageif

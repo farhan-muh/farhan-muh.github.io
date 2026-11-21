@@ -1,5 +1,6 @@
 #+title: Memulai Mengetik di Microsoft Word
 #+date: 2026-10-01
+#+description: Membuka Microsoft Word, mengenal tombol keyboard yang penting, dan latihan mengetik sederhana.
 #+hugo_base_dir: ../../../../
 #+hugo_section: tutorials/word
 #+hugo_bundle: memulai-mengetik

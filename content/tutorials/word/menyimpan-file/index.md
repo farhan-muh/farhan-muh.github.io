@@ -1,5 +1,6 @@
 ---
 title: "Menyimpan Dokumen di Microsoft Word"
+description: "Menyimpan dokumen di Microsoft Word, memilih folder dan nama file, menyimpan perubahan, dan membuka kembali dokumen."
 author: ["Muhamad Farhan"]
 date: 2026-10-19
 series: ["Word Dasar"]

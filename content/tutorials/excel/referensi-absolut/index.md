@@ -1,5 +1,6 @@
 ---
 title: "Menggunakan Referensi Absolut di Microsoft Excel"
+description: "Referensi absolut di Excel dan bedanya dengan referensi relatif saat rumus ditarik dengan fill handle."
 author: ["Muhamad Farhan"]
 date: 2026-11-17
 series: ["Rumus Excel"]

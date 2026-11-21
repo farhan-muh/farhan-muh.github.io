@@ -1,5 +1,6 @@
 #+title: Menggunakan Fungsi IF Tunggal untuk Uji Logika di Excel
 #+date: 2026-11-12
+#+description: Fungsi IF tunggal di Excel untuk uji logika, misalnya menentukan siswa lulus atau tidak lulus.
 #+hugo_base_dir: ../../../../
 #+hugo_section: tutorials/excel
 #+hugo_bundle: single-if

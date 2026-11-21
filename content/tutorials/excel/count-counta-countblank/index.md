@@ -1,5 +1,6 @@
 ---
 title: "Menghitung Banyak Data di Excel Menggunakan Fungsi COUNT, COUNTA, dan COUNTBLANK"
+description: "Menghitung sel berisi angka, teks, dan sel kosong di Excel dengan COUNT, COUNTA, dan COUNTBLANK."
 author: ["Muhamad Farhan"]
 date: 2026-11-03
 series: ["Rumus Excel"]

@@ -1,5 +1,6 @@
 #+title: Menyimpan Dokumen di Microsoft Word
 #+date: 2026-10-19
+#+description: Menyimpan dokumen di Microsoft Word, memilih folder dan nama file, menyimpan perubahan, dan membuka kembali dokumen.
 #+hugo_base_dir: ../../../../
 #+hugo_section: tutorials/word
 #+hugo_bundle: menyimpan-file

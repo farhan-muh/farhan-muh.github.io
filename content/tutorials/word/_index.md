@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Word"
+description: "Daftar materi Microsoft Word, dari membuka aplikasi sampai menyimpan dokumen."
 date: 2026-02-18
 weight: 1
 ---

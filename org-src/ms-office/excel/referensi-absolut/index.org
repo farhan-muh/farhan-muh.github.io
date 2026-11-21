@@ -1,5 +1,6 @@
 #+title: Menggunakan Referensi Absolut di Microsoft Excel
 #+date: 2026-11-17
+#+description: Referensi absolut di Excel dan bedanya dengan referensi relatif saat rumus ditarik dengan fill handle.
 #+hugo_base_dir: ../../../../
 #+hugo_section: tutorials/excel
 #+hugo_bundle: referensi-absolut

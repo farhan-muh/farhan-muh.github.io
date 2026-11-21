@@ -1,5 +1,6 @@
 ---
 title: "Menggunakan Fungsi SUM, AVERAGE, MAX, dan MIN di Microsoft Excel"
+description: "Fungsi SUM, AVERAGE, MAX, dan MIN di Excel untuk menjumlahkan, mencari rata-rata, dan menentukan nilai terbesar atau terkecil."
 author: ["Muhamad Farhan"]
 date: 2026-10-29
 series: ["Rumus Excel"]

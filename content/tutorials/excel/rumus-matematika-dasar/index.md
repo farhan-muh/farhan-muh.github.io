@@ -1,5 +1,6 @@
 ---
 title: "Menggunakan Rumus Matematika Dasar di Microsoft Excel"
+description: "Penjumlahan, pengurangan, perkalian, dan pembagian di Excel memakai rumus matematika dasar."
 author: ["Muhamad Farhan"]
 date: 2026-10-27
 series: ["Rumus Excel"]

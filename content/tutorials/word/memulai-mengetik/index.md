@@ -1,5 +1,6 @@
 ---
 title: "Memulai Mengetik di Microsoft Word"
+description: "Membuka Microsoft Word, mengenal tombol keyboard yang penting, dan latihan mengetik sederhana."
 author: ["Muhamad Farhan"]
 date: 2026-10-01
 series: ["Word Dasar"]

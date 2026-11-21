@@ -1,5 +1,6 @@
 ---
 title: "Portal Materi Tutorial"
+description: "Daftar materi tutorial Microsoft Word dan Microsoft Excel."
 date: 2026-02-18
 draft: false
 toc: false

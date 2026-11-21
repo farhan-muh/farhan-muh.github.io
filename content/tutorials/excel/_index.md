@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Excel"
+description: "Daftar materi Microsoft Excel: rumus dasar, fungsi statistik, uji logika, dan perhitungan bersyarat."
 date: 2026-10-27
 weight: 2
 ---
